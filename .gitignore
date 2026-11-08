@@ -1,0 +1,31 @@
+# 编译产物
+*.exe
+*.out
+*.o
+*.obj
+*.ilk
+*.pdb
+a.out
+
+# 编辑器与 IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.log
+~$*
+
+# 提交前请确认：不要把这些传上去
+# .env
+# *.key
+# *.pem
+# 个人证件、成绩单等隐私文件
